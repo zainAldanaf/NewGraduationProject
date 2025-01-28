@@ -1,4 +1,4 @@
-package com.example.graduationproject;
+package com.example.graduationproject.Patients;
 
 import android.annotation.SuppressLint;
 import android.app.ProgressDialog;
@@ -16,6 +16,8 @@ import androidx.activity.EdgeToEdge;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.graduationproject.Doctor.DoctorActivity;
+import com.example.graduationproject.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.analytics.FirebaseAnalytics;

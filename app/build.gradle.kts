@@ -43,6 +43,7 @@ dependencies {
     implementation(libs.firebase.firestore)
     implementation(libs.firebase.functions)
     implementation(libs.firebase.messaging)
+    implementation(libs.firebase.storage)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
@@ -50,5 +51,10 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:33.8.0"))
     implementation("com.google.firebase:firebase-analytics")
 
+    implementation ("com.squareup.picasso:picasso:2.5.2")
+    implementation ("com.karumi:dexter:6.2.1")
+
+    implementation ("com.google.firebase:firebase-core:21.1.1")
+    implementation ("com.google.android.gms:play-services-auth:20.7.0")
 
 }

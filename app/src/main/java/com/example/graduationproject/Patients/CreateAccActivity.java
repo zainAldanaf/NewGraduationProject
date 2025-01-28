@@ -1,4 +1,4 @@
-package com.example.graduationproject;
+package com.example.graduationproject.Patients;
 
 import android.annotation.SuppressLint;
 import android.app.ProgressDialog;
@@ -14,11 +14,9 @@ import android.widget.Toast;
 import androidx.activity.EdgeToEdge;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
 import com.example.graduationproject.Modules.PationtsModule;
+import com.example.graduationproject.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.analytics.FirebaseAnalytics;

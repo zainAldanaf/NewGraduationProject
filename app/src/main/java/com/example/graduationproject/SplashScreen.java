@@ -7,6 +7,8 @@ import android.os.Handler;
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.graduationproject.Patients.LoginPatients;
+
 public class SplashScreen extends AppCompatActivity {
 
     @Override

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#EEF4FF"
     android:padding="16dp"
-    tools:context=".LoginPatients">
+    tools:context=".Patients.LoginPatients">
 
     <!-- Top Right Image -->
 

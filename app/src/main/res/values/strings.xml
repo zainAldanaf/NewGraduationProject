@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">GraduationProject</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="app_name_ar">إرشادات الرعاية التلطيفية</string>
+    <string name="profile_ar">الملف الشخصي</string>
+    <string name="settings_ar">الإعدادات</string>
+    <string name="logout_ar">تسجيل الخروج</string>
+    <string name="dark_mode_ar">تفعيل الوضع الليلي</string>
+    <string name="change_language_ar">تغيير اللغة</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="dark_mode">Enable Dark Mode</string>
+    <string name="change_language">Change Language</string>
+
 </resources>
